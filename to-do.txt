@@ -2,4 +2,4 @@ Conversion file:
 -dollars to cents
 -gallons to liters
 -hours to minutes
--hello world
+-feet to inches
